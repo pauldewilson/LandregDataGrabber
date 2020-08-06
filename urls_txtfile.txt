@@ -1,0 +1,10 @@
+# datasource https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads#using-or-publishing-our-price-paid-data
+# this link provides URLs which give all Eng & Wal landreg transactions by year
+# such as http://prod.publicdata.landregistry.gov.uk.s3-website-eu-west-1.amazonaws.com/pp-2020.csv
+# then only need to change the year and it will grab the appropriate data
+# the earliest available year is 1995
+#
+#
+#
+http://prod.publicdata.landregistry.gov.uk.s3-website-eu-west-1.amazonaws.com/pp-2020.csv
+http://prod.publicdata.landregistry.gov.uk.s3-website-eu-west-1.amazonaws.com/pp-1999.csv
